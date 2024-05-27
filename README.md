@@ -7,3 +7,6 @@ git config --global alias.adgo "log --all --decorate --graph --oneline"
 ```
 
 ![alt text](image.png)
+
+## Fichero .gitconfig
+![alt text](image-1.png)
